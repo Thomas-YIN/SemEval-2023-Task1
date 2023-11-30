@@ -1,5 +1,5 @@
 
-# SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance
+# HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance
 
 This repository is for our work at the [SemEval-2023 Task1](https://raganato.github.io/vwsd/).
 
